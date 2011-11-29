@@ -1,0 +1,6 @@
+Functions for applying console ANSI text effect and color codes.
+
+License: GPLv3 (see LICENSE).
+
+References:
+* http://en.wikipedia.org/wiki/ANSI_escape_code
